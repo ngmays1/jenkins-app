@@ -1,6 +1,4 @@
-from flask import Flask
 from datetime import datetime
-import pytz # We'll add this to requirements.txt
 
 app = Flask(__name__)
 
